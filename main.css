@@ -9,6 +9,12 @@ figcaption {
   line-height: 1.5em;
 }
 
-#details {
+#details a:link,
+#details a:visited {
   color: orchid;
+  text-decoration: none;
+}
+
+#details a:hover {
+  color: plum;
 }
