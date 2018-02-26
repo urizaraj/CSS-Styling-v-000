@@ -8,3 +8,7 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
 }
+
+#details {
+  color: orchid;
+}
